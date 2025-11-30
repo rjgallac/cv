@@ -1,32 +1,84 @@
-Profile
-An enthusiastic and proactive Java developer with a broad technical skillset.  Able to juggle multiple projects and deliver to deadlines. With over 20 years years in development, 10 years experience in frontend development creating and maintaining engaging apps, websites and portals, and over 10 years in backend Java development with a keen interest in new technologies. I am looking for a company that adopts the agile principles, enforces TDD and realises the benefits of pair programming.
-Qualifications
-HND Software Engineering ‘96-’99
-BSC Computer Studies (Part-time) ‘03-’05
-> Jan 2025 –  current  (1 year)  Software Engineer @ Intelliam
-Worked on multiple Springboot microservices and azure apps to support the business in condition based monitoring.
-Technologies: Java, Springboot, Azure
-> Aug 2022 –  July 2024  (1 year 11 mths)  Senior Fullstack Java Developer @ GoDaddy
-Worked on multiple Springboot microservices across multiple teams. Deploying and supporting multiple live apps.
-Technologies: Java, Springboot, AWS
-> Aug 2021 –  Aug 2022  (1 yr)  Software Engineer @ BJSS
-Worked on various projects from a large bank to a government agency to internal projects using AWS and full stack microserveries.
-Technologies: Java, Node, AWS, Vue, serverless framework
-> Nov 2016 – Aug 2021 (5 yrs) Java Developer @ Wellbeing software
-Working as a full stack Java developer in a agile environment on a microservice breaking up a legacy Java app 
-Technologies: Java 8, Spring Boot, Hibernate, Postgres, docker, JMeter, Angularjs, angular 6
-> Mar 2016 – Oct 2016 (7 mths) Orbit Services Engineer @ Capita
-Bug fixes and data fixes for a benefit/pension application built in Java/Spring/camel
-Product development of a upload service utilising spring integration
-Product support and iterative development of new features for main application and microservices adopting an agile approach to development.
-Technologies:Java 8, spring boot, gradle, redis, mongodb, camel, hibernate, git, junit, activemq
-> Jan 2016 - Feb 2016 (2 wks) Software Engineer  @ Zedcore
-Support for an Inhouse PHP content management system and in house job application system built in PHP
-Technologies: PHP, linux, apache, HTML/CSS, git, MySQL
-> July 1999 - Jan 2015 (15 yrs) Web Developer @ learndirect
-Developed and maintained www.ufi.com in ASP with access database backend.
-Maintained www.learndirect.co.uk which is managed by a enterprise CMS
-Built the front end admin interface to an assessment booking tool using spring webflow
-Building a restful backend booking system in Java, spring webflow, angularjs.
-Incident support, live data fixes and code changes.
-Technologies: HTML, CSS, Javascript, Java 7, maven, dropwizard, angular JS,spring webflow, spring mvc, git, hibernate,
+PROFILE
+
+Enthusiastic and proactive Java Software Engineer with 20+ years of experience across backend engineering, microservices, and full-stack development. Experienced in designing, building, and maintaining scalable applications in Java/Spring Boot, with strong cloud expertise across AWS and Azure. Adept at juggling multiple projects, delivering to tight deadlines, and thriving in agile, TDD-focused environments. Passionate about modern engineering practices including pair programming, CI/CD automation, and clean, maintainable code.
+
+QUALIFICATIONS
+
+HND Software Engineering (1996–1999)
+BSc Computer Studies (Part-Time) (2003–2005)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer — Intelliam
+
+Jan 2025 – Present
+
+Developing and maintaining Spring Boot microservices and Azure-hosted applications supporting condition-based monitoring products.
+
+Collaborating in an agile team to deliver high-quality, cloud-native services.
+Technologies: Java, Spring Boot, Azure
+
+Senior Full-Stack Java Developer — GoDaddy
+
+Aug 2022 – July 2024 (1 year 11 months)
+
+Built and supported multiple Spring Boot microservices across several teams.
+
+Contributed to deployment pipelines, live service support, and operational improvements.
+
+Worked within an enterprise-scale AWS environment.
+Technologies: Java, Spring Boot, AWS
+
+Software Engineer — BJSS
+
+Aug 2021 – Aug 2022 (1 year)
+
+Delivered solutions for large financial and government clients.
+
+Developed full-stack microservices using Java, Node.js, and modern JavaScript tools.
+
+Built serverless components and cloud-native features on AWS.
+Technologies: Java, Node.js, AWS, Vue, Serverless Framework
+
+Java Developer — Wellbeing Software
+
+Nov 2016 – Aug 2021 (5 years)
+
+Full-stack Java development in an agile environment, contributing to the migration of a legacy monolith into microservices.
+
+Implemented features using Java 8, Spring Boot, and Angular; improved performance and reliability of critical services.
+
+Involved in containerisation, testing, and performance benchmarking with JMeter.
+Technologies: Java 8, Spring Boot, Hibernate, PostgreSQL, Docker, JMeter, AngularJS, Angular 6
+
+Orbit Services Engineer — Capita
+
+Mar 2016 – Oct 2016 (7 months)
+
+Delivered bug fixes, data corrections, and enhancements for a benefits/pensions application.
+
+Built an upload service using Spring Integration and contributed to microservice feature development.
+
+Supported production environments and iterative agile releases.
+Technologies: Java 8, Spring Boot, Gradle, Redis, MongoDB, Camel, Hibernate, Git, JUnit, ActiveMQ
+
+Software Engineer — Zedcore
+
+Jan 2016 – Feb 2016 (2 weeks)
+
+Provided support and maintenance for an internal PHP-based CMS and job application system.
+Technologies: PHP, Linux, Apache, HTML/CSS, Git, MySQL
+
+Web Developer — learndirect
+
+July 1999 – Jan 2015 (15 years)
+
+Developed and maintained ufi.com using ASP with an Access database backend.
+
+Maintained learndirect.co.uk using a large enterprise CMS.
+
+Built the front-end admin interface for an assessment booking tool using Spring Webflow.
+
+Developed a RESTful backend booking system using Java and AngularJS.
+
+Provided incident support, live data fixes, and code enhancements across multiple systems.
+Technologies: HTML, CSS, JavaScript, Java 7, Maven, Dropwizard, AngularJS, Spring Webflow, Spring MVC, Git, Hibernate
