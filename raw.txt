@@ -1,0 +1,32 @@
+Profile
+An enthusiastic and proactive Java developer with a broad technical skillset.  Able to juggle multiple projects and deliver to deadlines. With over 20 years years in development, 10 years experience in frontend development creating and maintaining engaging apps, websites and portals, and over 10 years in backend Java development with a keen interest in new technologies. I am looking for a company that adopts the agile principles, enforces TDD and realises the benefits of pair programming.
+Qualifications
+HND Software Engineering ‘96-’99
+BSC Computer Studies (Part-time) ‘03-’05
+> Jan 2025 –  current  (1 year)  Software Engineer @ Intelliam
+Worked on multiple Springboot microservices and azure apps to support the business in condition based monitoring.
+Technologies: Java, Springboot, Azure
+> Aug 2022 –  July 2024  (1 year 11 mths)  Senior Fullstack Java Developer @ GoDaddy
+Worked on multiple Springboot microservices across multiple teams. Deploying and supporting multiple live apps.
+Technologies: Java, Springboot, AWS
+> Aug 2021 –  Aug 2022  (1 yr)  Software Engineer @ BJSS
+Worked on various projects from a large bank to a government agency to internal projects using AWS and full stack microserveries.
+Technologies: Java, Node, AWS, Vue, serverless framework
+> Nov 2016 – Aug 2021 (5 yrs) Java Developer @ Wellbeing software
+Working as a full stack Java developer in a agile environment on a microservice breaking up a legacy Java app 
+Technologies: Java 8, Spring Boot, Hibernate, Postgres, docker, JMeter, Angularjs, angular 6
+> Mar 2016 – Oct 2016 (7 mths) Orbit Services Engineer @ Capita
+Bug fixes and data fixes for a benefit/pension application built in Java/Spring/camel
+Product development of a upload service utilising spring integration
+Product support and iterative development of new features for main application and microservices adopting an agile approach to development.
+Technologies:Java 8, spring boot, gradle, redis, mongodb, camel, hibernate, git, junit, activemq
+> Jan 2016 - Feb 2016 (2 wks) Software Engineer  @ Zedcore
+Support for an Inhouse PHP content management system and in house job application system built in PHP
+Technologies: PHP, linux, apache, HTML/CSS, git, MySQL
+> July 1999 - Jan 2015 (15 yrs) Web Developer @ learndirect
+Developed and maintained www.ufi.com in ASP with access database backend.
+Maintained www.learndirect.co.uk which is managed by a enterprise CMS
+Built the front end admin interface to an assessment booking tool using spring webflow
+Building a restful backend booking system in Java, spring webflow, angularjs.
+Incident support, live data fixes and code changes.
+Technologies: HTML, CSS, Javascript, Java 7, maven, dropwizard, angular JS,spring webflow, spring mvc, git, hibernate,
